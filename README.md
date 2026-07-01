@@ -10,9 +10,13 @@
 </div>
 
 ---
+<h1 align="center">About me</h1>
 
-# 💫 About Me
-<h1>Jaskaran singh</h1>
+
+<img align="center" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782930946/Hii_I_m_Jaskaran_Singh_1_cxoyjm.png">
+
+
+<!--
 <img align="right" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ✨ Digital Creator
@@ -28,7 +32,7 @@
 🎬 Professional Video Editor
 
 ⚡ Crafting digital experiences from concept to creation
-
+-->
 ---
 
 # 🌐 Connect with Me
@@ -111,40 +115,7 @@
 
 ---
 
-# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
----
-
-# 🔥 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Project One | AI Based Application |
-| 🌐 Project Two | Full Stack Website |
-| 📱 Project Three | Mobile Application |
-| 🤖 Project Four | Machine Learning |
-
----
-
-# 📅 Coding Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-
----
-
-# 👀 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
----
 
 # 🐍 Contribution Snake
 
@@ -153,19 +124,6 @@
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# ☕ Support Me
-
-<a href="https://buymeacoffee.com/USERNAME">
-
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-
-</a>
-
----
-
 <div align="center">
 
 ## 💖 Thanks for visiting!
