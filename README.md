@@ -16,11 +16,17 @@
 <img align="right" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ✨ Digital Creator
+
 💻 Full Stack Developer
+
 🎨 Graphic Designer
+
 🖌️ UI/UX Designer
+
 🎥 Cinematographer & Videographer
+
 🎬 Professional Video Editor
+
 ⚡ Crafting digital experiences from concept to creation
 
 ---
@@ -29,13 +35,13 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/">
+<img height="100" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782901920/LinkedIn_Icon-Photoroom_dzo9cu.png"/></a>
 
-<a href="https://twitter.com/USERNAME">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
+
+<a href="https://www.instagram.com/jaskaran.ll/">
+<img height="94" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782902240/download_25_-Photoroom_byl0uu.png"/></a>
+
 
 <a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
