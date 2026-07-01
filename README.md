@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me
-
+<h1>Jaskaran singh</h1>
 <img align="right" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ✨ Passionate Full Stack Developer
