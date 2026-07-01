@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Jaskaran Singh
+<img src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782898952/Hii_I_m_Jaskaran_Singh_1_szyzhu.gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;AI+%7C+Web+Developer;Always+Learning+New+Things+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<!--<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;AI+%7C+Web+Developer;Always+Learning+New+Things+🚀" />-->
+
 
 </div>
 
