@@ -34,28 +34,16 @@
 # 🌐 Connect with Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/" target="_blank" rel="noopener noreferrer">
-<img height="100" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782901920/LinkedIn_Icon-Photoroom_dzo9cu.png"/></a>
-
-
-<a href="https://www.instagram.com/jaskaran.ll/" target="_blank">
-<img height="94" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782902240/download_25_-Photoroom_byl0uu.png"/></a>
-
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=linkedin"/></a>
+ㅤ
+<a href ="https://www.instagram.com/jaskaran.ll/">
+<img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 
