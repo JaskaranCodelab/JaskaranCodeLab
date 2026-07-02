@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782983859/Hii_I_m_Jaskaran_Singh_4_cwyi8c.gif"/>
-<img src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782983538/Hii_I_m_Jaskaran_Singh_3_peclqo.gif">
+<img src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782986536/Hii_I_m_Jaskaran_Singh_3_df09vu.png"/>
 
 
 
